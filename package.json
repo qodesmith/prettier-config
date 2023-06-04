@@ -1,0 +1,20 @@
+{
+  "name": "@qodestack/prettier-config",
+  "version": "1.0.0",
+  "description": "A thorough prettier config you can use for new projects",
+  "main": "prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qodesmith/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier config"
+  ],
+  "author": "Qodesmith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qodesmith/prettier-config/issues"
+  },
+  "homepage": "https://github.com/qodesmith/prettier-config#readme"
+}
