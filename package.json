@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A thorough prettier config you can use for new projects",
   "main": "prettierrc.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/qodesmith/prettier-config.git"
