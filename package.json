@@ -1,6 +1,6 @@
 {
   "name": "@qodestack/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A thorough prettier config you can use for new projects",
   "main": "prettierrc.js",
   "publishConfig": {
